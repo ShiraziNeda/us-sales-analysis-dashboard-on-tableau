@@ -1,4 +1,4 @@
-# US Sales Analysis Dashboard on Tableau (2020-2021)
+# US Sales Analysis Dashboard on Tableau
 
 This Tableau dashboard provides an in-depth analysis of sales data across various categories, including **Fashion, Mobiles & Tablets, Computing, Home & Living**, and more. The dataset covers **sales in the US for 2020 and 2021**.
 
