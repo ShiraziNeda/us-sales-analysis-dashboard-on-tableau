@@ -6,12 +6,12 @@ This Tableau dashboard analyzes two years (2020-2021) of sales data for a US-bas
 📊 Dashboard Insights
 The dashboard includes the following visualizations:
 
-** Revenue per State (Map Chart) – Displays sales distribution across the US.
-** Monthly Revenue Trends (Line Chart) – Identifies seasonal patterns and peak sales periods.
-** Revenue by Age Group (Bar Chart) – Highlights which age groups generate the most revenue.
-** Quantity vs. Discount Percentage (Scatter Plot) – Explores the impact of discounts on quantity sold.
-** Percentage of Revenue per Region (Pie Chart) – Breaks down revenue contribution from different regions.
-** Revenue by Category & Gender (Bar Chart) – Compares product category sales between male and female customers.
+1. **Revenue per State (Map Chart) – Displays sales distribution across the US.
+2. **Monthly Revenue Trends (Line Chart) – Identifies seasonal patterns and peak sales periods.
+3. **Revenue by Age Group (Bar Chart) – Highlights which age groups generate the most revenue.
+4. **Quantity vs. Discount Percentage (Scatter Plot) – Explores the impact of discounts on quantity sold.
+5. **Percentage of Revenue per Region (Pie Chart) – Breaks down revenue contribution from different regions.
+6. **Revenue by Category & Gender (Bar Chart) – Compares product category sales between male and female customers.
 
 ## 📁 Files Included
 
