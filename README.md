@@ -1,17 +1,17 @@
 # US Sales Analysis Dashboard on Tableau
 
-This Tableau dashboard provides an in-depth analysis of sales data across various categories, including **Fashion, Mobiles & Tablets, Computing, Home & Living**, and more. The dataset covers **sales in the US for 2020 and 2021**.
+📌 Project Overview
+This Tableau dashboard analyzes two years (2020-2021) of sales data for a US-based company across multiple product categories. The goal is to extract valuable insights into sales trends, customer demographics, discount impacts, and regional performance to help drive data-driven business decisions.
 
-## 📊 Dashboard Overview
+📊 Dashboard Insights
+The dashboard includes the following visualizations:
 
-The **"Sales Report"** dashboard includes the following visualizations:
-
-1. **Revenue per State** – A **map** displaying revenue distribution across different states.
-2. **Revenue Trend by Month** – A **line chart** showing revenue changes over time.
-3. **Revenue by Age Group** – A **bar chart** analyzing revenue contributions from different age groups.
-4. **Quantity vs. Discount Percentage** – A **scatter plot** examining the relationship between quantity sold and applied discounts.
-5. **Percentage of Revenue per Region** – A **pie chart** illustrating revenue share by region.
-6. **Revenue per Category by Gender** – A **bar/column chart** presenting sales performance across categories segmented by gender.
+Revenue per State (Map Chart) – Displays sales distribution across the US.
+Monthly Revenue Trends (Line Chart) – Identifies seasonal patterns and peak sales periods.
+Revenue by Age Group (Bar Chart) – Highlights which age groups generate the most revenue.
+Quantity vs. Discount Percentage (Scatter Plot) – Explores the impact of discounts on quantity sold.
+Percentage of Revenue per Region (Pie Chart) – Breaks down revenue contribution from different regions.
+Revenue by Category & Gender (Bar Chart) – Compares product category sales between male and female customers.
 
 ## 📁 Files Included
 
